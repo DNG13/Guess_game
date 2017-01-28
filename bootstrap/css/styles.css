@@ -1,0 +1,33 @@
+h1{
+    color:red;
+}
+#main{
+    text-align:center;
+}
+#carousel > div > div.item > img{
+    width:40%;
+    height:50%;
+    text-align:left;
+}
+#carousel > div > div > div{
+    color:black;
+    text-align:right;
+}
+#restart{
+    padding:5px 5px 5px 5px;
+}
+button{
+    cursor:pointer;
+}
+#answer, p{
+    font-size:20px;
+}
+body > div.navbar.navbar-inverse{
+    margin:0px;
+}
+body{
+    background-color:#FAFAD2;    
+}
+#carousel > ol > li{
+ background-color:grey;   
+}
